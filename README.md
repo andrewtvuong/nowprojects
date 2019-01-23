@@ -1,4 +1,1 @@
 # nowprojects
-
-bettervoice
-AllergyAI
